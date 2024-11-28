@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".fragment3">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes1"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes2"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes3"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/mes4" />
+
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes5"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes6"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes7"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes1"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes1"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes2"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes3"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/mes4" />
+
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes5"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes6"
+                />
+            <ImageView
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/mes7"
+                />
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
